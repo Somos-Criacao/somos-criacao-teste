@@ -1,0 +1,24 @@
+@import url("styles/cabeçalho.css");
+
+:root {
+    --cor-de-fundo: #eeeef0;
+    --branco: #ffffff;
+    --fonte-principal: "Luckybones-Bold";
+    --azul: #002F52;
+    --azul-claro: #a1f3f6;
+    --azul-claro2: #8bddd6;
+    --preto: #000000;
+    --verde1: #7ba884;
+    --verde2: #80d690;
+    --verde3: #9fcfa8;
+    --verde4: #6aad8f;
+    --verde-escuro: #10726c;
+    --amarelo: #ffe368;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
