@@ -1,7 +1,9 @@
 @import url("styles/cabeçalho.css");
+@import url("styles/capa.css");
+@import url("styles/corpo.css");
 
 :root {
-    --cor-de-fundo: #eeeef0;
+    --cor-de-fundo: #e7e7e7;
     --branco: #ffffff;
     --fonte-principal: "Luckybones-Bold";
     --azul: #002F52;
